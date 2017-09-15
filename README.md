@@ -3,11 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
 ## Initial setup
-Download and install NodeJs from https://nodejs.org/en/
-After installation, make sure you have at least NPM version 5. This can be verified via this command `npm -v`
+Download and install NodeJs from https://nodejs.org/en/.
+After installation, make sure you have at least NPM version 5. This can be verified via `npm -v`
 If you have a lower version installed, you can upgrade by running `npm install npm@latest -g`
 
-Install the dependencies by executing `npm install` from the root of this project
+Install the dependencies by executing `npm install` from the root of this project.
 
 ## Development server
 
