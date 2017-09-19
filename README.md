@@ -3,11 +3,19 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
 ## Initial setup
+### Get code
+To get the template code, you need to have Git installed. You can download it from https://git-scm.com/downloads
+
+If Git is installed on your system, get the code by executing the command `git clone https://github.com/AE-nv/student-innovatec-challenge-2018.git`
+
+### NodeJs
 Download and install NodeJs from https://nodejs.org/en/.
 After installation, make sure you have at least NPM version 5. This can be verified via `npm -v`
 If you have a lower version installed, you can upgrade by running `npm install npm@latest -g`
 
-Install the dependencies by executing `npm install` from the root of this project.
+Install angular cli globally by executing the command `npm install -g @angular/cli`
+
+Install the dependencies by executing the command `npm install` from the root of this project.
 
 ## Development server
 
